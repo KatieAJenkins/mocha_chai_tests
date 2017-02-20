@@ -1,7 +1,8 @@
 'use strict';
 
 module.exports = {
-  findtarget: function(array, number){
-
+  findTarget:
+  function(array, number){
+//TODO running mocha, should have 1 test failed but it is passing
   }
 };
