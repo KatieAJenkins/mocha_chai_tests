@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "findtarget.js",
-  "directories": {
-    "test": "tests"
-  },
   "dependencies": {
     "chai": "^3.5.0"
   },

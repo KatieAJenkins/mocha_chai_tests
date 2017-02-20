@@ -7,11 +7,29 @@ var code = require('../findtarget.js');
 
 describe('findtarget' , function() {
 //input should contain 2 arguments
+it('input should contain 2 arguments', function(){
+
+})
 //argument1 should be an array
+xit('argument1 should be an array', function(){
+
+})
 //argument2 should be a number
+xit('argument2 should be a number', function(){
+
+})
 //input should contain only numbers
+xit('input should contain only numbers', function(){
+
+})
 //output should be an array
+xit('output should be an array', function(){
+
+})
 //output should add up to argument2
+xit('output array should add up to argument2', function(){
+
+})
 
 
 });
