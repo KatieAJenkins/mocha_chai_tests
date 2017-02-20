@@ -1,0 +1,29 @@
+{
+  "name": "mocha_chai_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findtarget.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatieAJenkins/mocha_chai_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatieAJenkins/mocha_chai_tests/issues"
+  },
+  "homepage": "https://github.com/KatieAJenkins/mocha_chai_tests#readme"
+}
