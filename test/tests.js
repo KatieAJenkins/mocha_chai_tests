@@ -3,9 +3,9 @@
 // Two Sum: Write a function that takes an array of integers and a target integer. It should find two different items in the array that, when added together, give the target value. The indices of these items should then be returned in an array like so: [index1, index2]. // input: [1, 2, 3, 4, 5, 6, 7], 13 // output: [5,6]
 
 var expect = require('chai').expect;
-var code = require('../findtarget.js');
+var code = require('../findTarget.js');
 
-describe('findtarget' , function() {
+describe('findTarget' , function() {
 //input should contain 2 arguments
 it('input should contain 2 arguments', function(){
 
@@ -26,8 +26,8 @@ xit('input should contain only numbers', function(){
 xit('output should be an array', function(){
 
 })
-//output should add up to argument2
-xit('output array should add up to argument2', function(){
+//output indices should add up to argument2
+xit('output array indices should add up to argument2', function(){
 
 })
 
